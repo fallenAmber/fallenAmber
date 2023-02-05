@@ -1,6 +1,6 @@
 ### Hi there, This is Tohid 👋
 
-##### Programming Languages: Highly proficient in Python, Matlab, SQL, and Prolog. Moderate working familiarity with Java, C, and C++.
+##### Highly proficient in Python, Matlab, SQL, and Prolog. Moderate working familiarity with Java, C, and C++.
 
 - 💬 Ping me up at tanzid1971@gmail.com 
 - 😄 Pronouns: He/his/him
