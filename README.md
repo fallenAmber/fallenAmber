@@ -9,9 +9,9 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallenAmber)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fallenAmber&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fallenAmber&show_icons=true) 
 
-<!--[GitHub streak stats](https://streak-stats.demolab.com/?user=fallenAmber)  
+![Profile views](https://gpvc.arturio.dev/fallenAmber) 
 
-![Profile views](https://gpvc.arturio.dev/fallenAmber)  
+<!--[GitHub streak stats](https://streak-stats.demolab.com/?user=fallenAmber)   
  
