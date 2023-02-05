@@ -2,7 +2,7 @@
 
 ##### Programming Languages: Highly proficient in Python, Matlab, SQL, and Prolog. Moderate working familiarity with Java, C, and C++.
 
-- 💬 Ask me about anything at tanzid1971@gmail.com 
+- 💬 Ping me up at tanzid1971@gmail.com 
 - 😄 Pronouns: He/his/him
 
 ![Profile views](https://gpvc.arturio.dev/fallenAmber) 
