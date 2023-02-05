@@ -1,5 +1,5 @@
 ### Hi there, This is Tohid 👋
-![](https://media.licdn.com/dms/image/D5603AQH_3iJ1RAsV-w/profile-displayphoto-shrink_800_800/0/1672149911357?e=1681344000&v=beta&t=rJYNdVAbhTxJMjcKe2so26WIRkqP28NasYUnxDLsV-E)
+![](https://media.licdn.com/dms/image/D5603AQH_3iJ1RAsV-w/profile-displayphoto-shrink_400_400/0/1672149911357?e=1681344000&v=beta&t=rJYNdVAbhTxJMjcKe2so26WIRkqP28NasYUnxDLsV-E)
 
 
 #Programming Languages: Highly proficient in Python, Matlab, SQL, and Prolog. Moderate working familiarity with Java, C, and C++.
