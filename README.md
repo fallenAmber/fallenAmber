@@ -3,7 +3,8 @@
 ##### Highly proficient in Python, Matlab, SQL, and Prolog. Moderate working familiarity with Java, C, and C++.
 
 - 💬 Ping me up at tanzid1971@gmail.com 
-- 😄 Pronouns: He/his/him
+
+- My current focus is on Explainable AI, a rapidly growing field that seeks to make artificial intelligence (AI) more transparent and understandable to humans. As AI becomes more advanced and ubiquitous, it is important for us to be able to understand the reasoning behind the decisions made by these systems, especially in high-stakes applications like healthcare, finance, and law. By developing methods for explaining the inner workings of AI models, we can improve their reliability, reduce bias and discrimination, and increase trust in AI overall.
 
 ![Profile views](https://gpvc.arturio.dev/fallenAmber) 
 
