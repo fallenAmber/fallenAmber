@@ -13,5 +13,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fallenAmber&show_icons=true) 
 
-<!--[GitHub streak stats](https://streak-stats.demolab.com/?user=fallenAmber)   
+<!--[GitHub streak stats](https://streak-stats.demolab.com/?user=fallenAmber)
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
  
