@@ -1,7 +1,7 @@
 ### Hi there, This is Tohid 👋
 
-##### Highly proficient in Python, Matlab, SQL, and Prolog. Moderate working familiarity with Java, C, and C++.
-
+##### Highly proficient in Python, Matlab, and SQL. Moderate working familiarity with Java,
+C, JavaScript, HTML, and CSS.
 - 💬 Ping me up at tanzid1971@gmail.com 
 
 - My current focus is on Explainable AI to make the Cyberspace more secure. Explainable AI is a rapidly growing field that seeks to make artificial intelligence (AI) more transparent and understandable to humans. As AI becomes more advanced and ubiquitous, it is important for us to be able to understand the reasoning behind the decisions made by these systems, especially in high-stakes applications like Cybersecurity, healthcare, and finance. By developing methods for explaining the inner workings of AI models, we can improve their reliability, reduce bias and discrimination, and increase trust in AI overall. Explainable AI can be a valuable tool for enhancing cybersecurity. By utilizing explainable AI techniques, deeper insights can be gained into how AI models make decisions and identify potential vulnerabilities in their systems.
