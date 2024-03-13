@@ -2,6 +2,7 @@
 
 ##### Proficient in Python, Matlab, and SQL. Moderate working familiarity with Java, R, C/C++, JavaScript, HTML, and CSS.
 - 💬 Ping me up at tanzid1971@gmail.com or mdtohidulislam@u.boisestate.edu
+- Some of my projects and coding activities carried out for research purposes have been kept private for good reasons, please let me know if you think we should talk about this. 
 - I mostly spend my time reading books while away from my desk.
 - If we ever cross paths or an opportunity arises differently, please suggest good reading materials.
 
