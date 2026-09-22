@@ -1,4 +1,4 @@
-# Hi, I am Tohid 👋
+# Hi, I am Tohid!
 
 I am a graduate researcher in the **School of Systems Sciences and Industrial Engineering at Binghamton University**, working across **machine learning, explainable AI, computer vision, data-driven systems, and intelligent engineering applications**.
 
