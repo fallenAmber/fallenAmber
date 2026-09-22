@@ -41,6 +41,6 @@ When I am away from my desk, I spend a good amount of time reading, hiking, camp
 - **Email:** [mislam33@binghamton.edu](mailto:mislam33@binghamton.edu)
 - **LinkedIn:** [linkedin.com/in/tohid321](https://www.linkedin.com/in/tohid321/)
 - **Website:** [sites.google.com/view/fallenamber](https://sites.google.com/view/fallenamber)
-- **Google Scholar:** [https://scholar.google.com/citations?user=CJdpIUoAAAAJ&hl=en]
+- **Google Scholar:** [Google Scholar (https://scholar.google.com/citations?user=CJdpIUoAAAAJ&hl=en)]
 
 Some research-related repositories remain private because of ongoing work, data restrictions, or collaboration requirements. I am happy to discuss relevant projects when appropriate.
