@@ -19,11 +19,11 @@ Beyond research, I enjoy building end-to-end technical systems, from data prepar
 
 ### Technical Stack
 
-**Programming & Data:** Python, SQL, R, MATLAB, Java, C/C++  
+**Programming and Data:** Python, SQL, R, MATLAB, Java, C/C++  
 **Machine Learning / AI:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, Hugging Face, YOLO  
 **Explainability:** SHAP, LIME, Grad-CAM, counterfactual and modality-level explanation methods  
-**Optimization & Simulation:** Gurobi, Simio, MATLAB/Simulink  
-**Software & Deployment:** Git, GitHub, Docker, FastAPI, Flask, Streamlit, MySQL  
+**Optimization and Simulation:** Gurobi, Simio, MATLAB/Simulink  
+**Software and Deployment:** Git, GitHub, Docker, FastAPI, Flask, Streamlit, MySQL  
 **GIS and Engineering Tools:** ArcGIS Pro, QGIS, Google Earth Pro
 
 ### What I am Interested In
@@ -34,13 +34,13 @@ I particularly enjoy problems that sit between **research and implementation** w
 
 ### Beyond Research
 
-When I am away from my desk, I spend a good amount of time reading, hiking, camping, working out, and playing tennis. If our paths ever cross, recommendations for interesting books or reading material or cool places to hike are always welcome.
+When I am away from my desk, I am probably reading something, hiking toward a lake or waterfall, camping somewhere with questionable cell service, working out, or playing tennis or badminton. I am always collecting good books and cool places to explore. If our paths ever cross, recommendations for either are very welcome.
 
 ### Connect
 
 - **Email:** [mislam33@binghamton.edu](mailto:mislam33@binghamton.edu)
 - **LinkedIn:** [linkedin.com/in/tohid321](https://www.linkedin.com/in/tohid321/)
 - **Website:** [sites.google.com/view/fallenamber](https://sites.google.com/view/fallenamber)
-- **Google Scholar:** [Google Scholar (https://scholar.google.com/citations?user=CJdpIUoAAAAJ&hl=en)]
+- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=CJdpIUoAAAAJ&hl=en)
 
 Some research-related repositories remain private because of ongoing work, data restrictions, or collaboration requirements. I am happy to discuss relevant projects when appropriate.
