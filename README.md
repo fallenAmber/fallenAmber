@@ -73,7 +73,7 @@ Some directions I would be excited to work on include (not limited to...):
 - Human-Centered AI and Decision-Support Systems
 - Production-oriented ML systems and applied AI software
 
-I am especially drawn to problems that sit between **research and implementation** — where strong analytical or computational ideas need to become reliable, useful, and deployable systems.
+I am especially drawn to problems that sit between **research and implementation**, where strong analytical or computational ideas need to become reliable, useful, and deployable systems.
 
 ### What I Am Looking For
 
