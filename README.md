@@ -6,8 +6,6 @@ My current work focuses on **trustworthy multimodal AI**, particularly RGB–the
 
 Beyond research, I enjoy building end-to-end technical systems, from data preparation and model development to validation, APIs, user-facing applications, and deployment-oriented workflows.
 
----
-
 ### Current Research and Technical Focus
 
 - Trustworthy and Explainable AI
@@ -18,8 +16,6 @@ Beyond research, I enjoy building end-to-end technical systems, from data prepar
 - Data Science and Statistical Modeling
 - Operations Research, Optimization, and Simulation
 - AI-Enabled Engineering and Decision-Support Systems
-
----
 
 ### Previously, I Have Worked On
 
@@ -40,8 +36,6 @@ My earlier work has taken me across several areas of AI, computing, and engineer
 
 Some of these projects have led to peer-reviewed journal articles, conference papers, collaborative research, and deployed or user-facing software systems.
 
----
-
 ### Technical Stack
 
 **Programming and Data:** Python, SQL, R, MATLAB, Java, C/C++  
@@ -51,8 +45,6 @@ Some of these projects have led to peer-reviewed journal articles, conference pa
 **Optimization and Simulation:** Gurobi, Simio, MATLAB/Simulink, discrete-event simulation  
 **Software and Deployment:** Git, GitHub, Docker, FastAPI, Flask, Streamlit, MySQL  
 **GIS and Engineering Tools:** ArcGIS Pro, QGIS, Google Earth Pro
-
----
 
 ### Areas I Would Like to Explore Next (Not Limited to...)
 
@@ -83,23 +75,17 @@ Some directions I would be excited to work on include (not limited to...):
 
 I am especially drawn to problems that sit between **research and implementation** — where strong analytical or computational ideas need to become reliable, useful, and deployable systems.
 
----
-
 ### What I Am Looking For
 
 I am interested in both **doctoral research opportunities** and **industry roles** where I can contribute to technically challenging problems involving AI, machine learning, data science, intelligent systems, optimization, or computational engineering.
 
 I enjoy interdisciplinary environments and am particularly interested in opportunities where I can combine **research, experimentation, software development, and real-world problem solving**.
 
----
-
 ### Beyond Research
 
 When I am away from my desk, I am probably **reading something, hiking toward a lake or waterfall, camping somewhere with questionable cell service, working out, or playing tennis or badminton**.
 
 I am always collecting good books and cool places to explore, so if our paths ever cross, recommendations for either are very welcome.
-
----
 
 ### Connect
 
