@@ -39,10 +39,11 @@ Some of these projects have led to peer-reviewed journal articles, conference pa
 ### Technical Stack
 
 **Programming and Data:** Python, SQL, R, MATLAB, Java, C/C++  
-**Machine Learning / AI:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, Hugging Face, YOLO  
+**Machine Learning / AI:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, Hugging Face, YOLO, spaCY, NLTK  
 **Explainability and Trustworthy AI:** SHAP, LIME, Grad-CAM, ProtoDash, ELI5, counterfactual and modality-level explanation methods  
 **Statistics & Network Analysis:** time-series analysis, transfer entropy, multivariate statistics, mixed-effects modeling, network science  
-**Optimization and Simulation:** Gurobi, Simio, MATLAB/Simulink, discrete-event simulation  
+**Optimization and Simulation:** Gurobi, Simio, MATLAB/Simulink, discrete-event simulation
+**Cybersecurity:**  NS-3, Nmap, Wireshark; working knowledge of number theory and cryptographic primitives.
 **Software and Deployment:** Git, GitHub, Docker, FastAPI, Flask, Streamlit, MySQL  
 **GIS and Engineering Tools:** ArcGIS Pro, QGIS, Google Earth Pro
 
