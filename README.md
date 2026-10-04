@@ -93,9 +93,9 @@ I am particularly drawn to problems that sit between **research, engineering, an
 
 ### What I Am Looking For
 
-I am interested in both **doctoral research opportunities** and **industry roles** where I can contribute to challenging problems involving AI, machine learning, data science, intelligent systems, optimization, analytics, or computational engineering.
+I am always interested in roles where I can contribute to challenging problems involving AI, machine learning, data science, intelligent systems, optimization, analytics, or computational engineering.
 
-On the industry side, I am open to opportunities spanning **technology, finance, consulting, analytics, engineering, and management-oriented technical roles**. I am particularly interested in positions where technical analysis can inform products, operations, strategy, risk, or organizational decision-making.
+On the industry side, I am open to the challenges spanning **technology, finance, consulting, analytics, engineering, and management-oriented technical roles**. I am particularly interested in positions where technical analysis can inform products, operations, strategy, risk, or organizational decision-making.
 
 This includes opportunities in areas such as **AI/ML engineering, data science, applied research, analytics, decision science, operations research, financial analytics, FinTech, technology consulting, AI strategy, digital transformation, and technology management**.
 
