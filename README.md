@@ -98,7 +98,7 @@ I am always interested in roles where I can contribute to challenging problems i
 
 On the industry side, I am open to the challenges spanning **technology, finance, consulting, analytics, engineering, and management-oriented technical roles**. I am particularly interested in positions where technical analysis can inform products, operations, strategy, risk, or organizational decision-making.
 
-This includes opportunities in areas such as **AI/ML engineering, data science, applied research, analytics, decision science, operations research, financial analytics, FinTech, technology consulting, AI strategy, digital transformation, and technology management**.
+This includes areas such as **AI/ML engineering, data science, applied research, analytics, decision science, operations research, financial analytics, FinTech, technology consulting, AI strategy, digital transformation, and technology management**.
 
 I enjoy interdisciplinary environments where I can combine **research, experimentation, quantitative analysis, software development, systems thinking, and real-world problem solving**.
 
