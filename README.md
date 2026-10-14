@@ -2,7 +2,7 @@
 
 I am a graduate researcher in the **School of Systems Science and Industrial Engineering at Binghamton University (SUNY)**, working across **machine learning, data science, explainable and trustworthy AI, intelligent systems, and quantitative decision-making**.
 
-My current research focuses on **trustworthy multimodal AI**, particularly RGB–thermal learning for UAV-based photovoltaic inspection, with emphasis on **model reliability, explainability, sensor-level reasoning, and decision-support systems**. I also work with **statistical modeling, network science, time-series analysis, operations research, optimization, simulation, and applied data science**.
+My current research focuses on **trustworthy multimodal AI**, particularly RGB-thermal learning for UAV-based photovoltaic inspection, with emphasis on **model reliability, explainability, sensor-level reasoning, and decision-support systems**. I also work with **statistical modeling, network science, time-series analysis, operations research, optimization, simulation, and applied data science**.
 
 Beyond research, I enjoy building end-to-end technical systems—from data preparation and model development to validation, APIs, user-facing applications, and deployment-oriented workflows.
 
