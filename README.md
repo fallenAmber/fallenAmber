@@ -8,6 +8,8 @@ Beyond research, I enjoy building end-to-end technical systems—from data prepa
 
 I am particularly interested in problems where **research, engineering, analytics, and decision-making meet**, and where technical ideas need to become reliable systems, actionable insights, or better operational and strategic decisions.
 
+Some research-related repositories remain private because of **ongoing work, publication status, data-use restrictions, or collaboration requirements**. I am happy to discuss relevant projects when appropriate.
+
 ---
 
 ## Current Research & Technical Focus
@@ -243,7 +245,3 @@ I am usually listening to something slow and mellow—jazz, soft rock, acoustic 
 - **LinkedIn:** [linkedin.com/in/tohid321](https://www.linkedin.com/in/tohid321/)
 - **Website:** [sites.google.com/view/fallenamber](https://sites.google.com/view/fallenamber)
 - **Google Scholar:** [Scholar Profile](https://scholar.google.com/citations?user=CJdpIUoAAAAJ&hl=en)
-
----
-
-Some research-related repositories remain private because of **ongoing work, publication status, data-use restrictions, or collaboration requirements**. I am happy to discuss relevant projects when appropriate.
